@@ -1,6 +1,6 @@
 # Privacy Policy — Spinly
 
-_Last updated: 10 October 2026_
+_Last updated: 11 October 2026_
 
 Spinly collects no personal data, tracks no user activity, and stores all user data locally on the device.
 
